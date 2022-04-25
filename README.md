@@ -46,7 +46,7 @@ Request body:
 }
 ```
 
-**Register Win**
+**Withdraw Amount**
 ```
 POST: localhost:8080/wallet/withdraw
 Request body:
