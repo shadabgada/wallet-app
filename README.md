@@ -78,7 +78,7 @@ Sorting and pagination is supported.
 For pagination, below are valid query params:
 page: required page no
 size: page size
-and all column names of transaction db are value query params.
+and all column names of transaction db are valid query params.
 
 For sorting,
 use sortBy query param.
